@@ -32,8 +32,8 @@ export function Philosophy() {
             }`}
           >
             <img
-              src="/minimalist-japanese-interior-design-with-natural-w.jpg"
-              alt="Минималистичный интерьер с натуральным деревом"
+              src="https://cdn.poehali.dev/projects/e0ec08c7-48a6-451f-a363-c89af91376d7/files/96913d9a-3bcd-44f7-925a-08e0944e25ed.jpg"
+              alt="Минималистичный интерьер Japandi с натуральными материалами"
               className="absolute inset-0 w-full h-full object-cover"
             />
             {/* Overlay accent */}
@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Красота
+              <span className="italic"> через</span>
               <br />
-              жизни
+              простоту
             </h2>
 
             <div
@@ -67,13 +67,12 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Japandi — это не просто стиль, это философия. Мы убираем лишнее, чтобы пространство задышало.
+                Каждый элемент — обоснован, каждая деталь — несёт смысл.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Мы черпаем вдохновение в японской концепции <em className="text-foreground">ма</em> — красоте пустого пространства — 
+                и скандинавском <em className="text-foreground">хюгге</em> — умении создавать тепло из простых вещей.
               </p>
             </div>
 
@@ -84,15 +83,15 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">8+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">90+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">5</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
               </div>
             </div>
